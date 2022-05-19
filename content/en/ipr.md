@@ -8,5 +8,9 @@ category: Basic Process
 ## Overview
 ## Copyright
 ## Licenses
-## Software License Policy
 ## Technical Document License
+## Software License Policy
+### Software License Compatibility
+## Security
+
+## Tools
