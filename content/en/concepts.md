@@ -1,7 +1,7 @@
 ---
 title: Concepts
 description: ''
-position: 10
+position: 30
 category: 'Introduction'
 ---
 ## Introduction
@@ -96,5 +96,5 @@ category: 'Introduction'
 ## Specifications Flow
 - How to develope Specifications using GitHub?
     - Beginers, Intermediate, Advance users
-    
+
 <img src="specs-flow.svg" alt="Open Standards Specifications Flow">

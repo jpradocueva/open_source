@@ -1,10 +1,10 @@
 ---
-title: Open-Source
+title: Open-Standards
 description: ''
-position: 5
+position: 20
 category: 'Introduction'
 ---
-## What is Open-Source?
+## What is Open-Standards?
 - Existing definitions and info from training courses
 
 ### Why it is Important?
