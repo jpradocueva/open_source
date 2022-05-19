@@ -6,13 +6,13 @@ category: Basic Process
 ---
 
 ## Governance
-### Organization Structure
+## Organization Structure
 ### Technical Steering Committee
 #### Functions & Responsibilities
 ### Committees
 ### Technical Working Groups
-### Membership Levels
-### Organization Roles
+## Membership Levels
+## Organization Roles
 #### Members
 #### Editors, Maintainers
 #### Working Group Chairs
