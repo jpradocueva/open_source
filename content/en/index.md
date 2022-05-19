@@ -2,7 +2,7 @@
 title: Introduction
 description: ''
 position: 1
-category: ''
+category: 'Introduction'
 features:
   - Feature 1
   - Feature 2
